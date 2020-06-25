@@ -16,16 +16,16 @@ Spring Framework, Bootstrap, Mybatis
 ![DB](https://github.com/cbsmycom/BYEWORKS/blob/master/DB1.PNG)
 
 ## Usecase Diagram
-![DB](https://github.com/cbsmycom/BYEWORKS/blob/master/usecase.PNG)
+![usecase](https://github.com/cbsmycom/BYEWORKS/blob/master/usecase.PNG)
 
 ## Sequence Diagram
-![DB](https://github.com/cbsmycom/BYEWORKS/blob/master/sequence.PNG)
+![sequence](https://github.com/cbsmycom/BYEWORKS/blob/master/sequence.PNG)
 
 ## Package Diagram
-![DB](https://github.com/cbsmycom/BYEWORKS/blob/master/package.PNG)
+![package](https://github.com/cbsmycom/BYEWORKS/blob/master/package.PNG)
 
 ## Class Diagram
-![DB](https://github.com/cbsmycom/BYEWORKS/blob/master/class.PNG)
+![class](https://github.com/cbsmycom/BYEWORKS/blob/master/class.PNG)
 
 
 Portfolio-사내그룹웨어
